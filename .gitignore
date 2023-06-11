@@ -1,0 +1,4 @@
+data/images/*
+*.csv
+.pytest_cache/
+.ipynb_checkpoints/
