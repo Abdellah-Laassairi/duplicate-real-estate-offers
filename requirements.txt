@@ -1,0 +1,12 @@
+fiftyone
+pandas
+numpy
+tqdm
+torch 
+torchvision
+jupyterlab
+jupyter
+pytest
+ipytest
+rich
+seaborn
